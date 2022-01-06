@@ -1,1 +1,28 @@
+h1{
+    font-size: 50px;
+    border-left: 5px orange;
+}
+
+
+
+.mediumseagreen-color{
+    color: mediumseagreen;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 10%;
+    
+}
+.half-width img{
+    width: 80%;
+} 
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
 
